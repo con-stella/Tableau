@@ -33,3 +33,11 @@
 ![](tableau_practice_doubleaxis_area01.png)
 
 변경해야 함
+
+
+
+# 5. 월별 매출액 비교 (라인 그래프)
+![](tableau_practice_doubleaxis_area01.png)
+
+# 6. 월별 매출액 비교 (막대 그래프)
+![](tableau_lab_dualaxis.png)
