@@ -40,4 +40,4 @@
 ![](tableau_practice_doubleaxis_area01.png)
 
 # 6. 월별 매출액 비교 (막대 그래프)
-![](tableau_lab_dualaxis.png)
+![](tableau_lab_dualaxis_bar.png)
