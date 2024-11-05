@@ -30,6 +30,6 @@
 
 # 4. 고객별 재구매 시기 데이터 분석 테블로 시각화
 
-!(tableau_practice_doubleaxis_area01.png)
+![](tableau_practice_doubleaxis_area01.png)
 
 변경해야 함
